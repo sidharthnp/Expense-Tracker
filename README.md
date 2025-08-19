@@ -1,6 +1,4 @@
-Perfect 👍 — for your README you should provide **pip install commands** that match the libraries you imported.
-
-Here are the exact commands you can copy-paste:
+## Libraries required
 
 ```bash
 pip install tk
