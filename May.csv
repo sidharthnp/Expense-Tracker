@@ -1,0 +1,66 @@
+Timestamp,Month,Type,Category,Amount,Person,Date,Remarks
+09-05-2025 16:37,May-25,Expense,Food,40.0,Sidharth ,08-05-2025,BF
+09-05-2025 16:38,May-25,Expense,Food,43.0,Jishnu,08-05-2025,BF
+09-05-2025 16:38,May-25,Expense,Food,64.0,Sidharth ,08-05-2025,Lunch
+09-05-2025 16:39,May-25,Expense,Food,30.0,Sidharth ,08-05-2025,Dinner
+09-05-2025 16:39,May-25,Expense,Food,55.0,Sidharth ,09-05-2025,BF
+09-05-2025 16:40,May-25,Expense,Food,43.0,Jishnu,09-05-2025,BF
+09-05-2025 16:40,May-25,Expense,Food,64.0,Sidharth ,09-05-2025,Lunch
+09-05-2025 17:34,May-25,Expense,Food,10.0,Sidharth,09-05-2025,Tea
+10-05-2025 09:04,May-25,Expense,Food,62.0,Sidharth,09-05-2025,Dinner
+10-05-2025 09:05,May-25,Income,Salary,43750.0,Sidharth,08-05-2025,Salary
+10-05-2025 09:05,May-25,Expense,Food,62.0,Sidharth,10-05-2025,BF
+10-05-2025 09:05,May-25,Expense,Food,43.0,Jishnu,10-05-2025,BF
+13-05-2025 14:25,May-25,Expense,Food,37.0,Sidharth,12-05-2025,BF
+13-05-2025 14:25,May-25,Expense,Food,54.0,Sidharth,12-05-2025,Lunch
+13-05-2025 14:26,May-25,Expense,Food,160.0,Sidharth,12-05-2025,Dinner
+13-05-2025 14:26,May-25,Expense,Food,37.0,Sidharth,13-05-2025,
+13-05-2025 14:27,May-25,Expense,Food,95.0,Sidharth,13-05-2025,Lunch
+13-05-2025 14:29,May-25,Expense,Miscellaneous,423.0,Sidharth,11-05-2025,Aryas Marriage
+15-05-2025 13:54,May-25,Expense,Food,190.0,Sidharth,13-05-2025,Lunch
+15-05-2025 13:54,May-25,Expense,Food,40.0,Sidharth,15-05-2025,BF
+15-05-2025 13:55,May-25,Expense,Food,30.0,Jishnu,15-05-2025,BF
+15-05-2025 13:55,May-25,Expense,Food,80.0,Sidharth,15-05-2025,Lunch
+15-05-2025 13:55,May-25,Expense,Petrol,1000.0,Sidharth,15-05-2025,Petrol
+16-05-2025 08:49,May-25,Expense,Food,60.0,Sidharth,16-05-2025,BF
+16-05-2025 08:49,May-25,Expense,Food,43.0,Jishnu,16-05-2025,BF
+16-05-2025 14:50,May-25,Expense,Food,120.0,Sidharth,16-05-2025,Lunch
+19-05-2025 15:52,May-25,Expense,Food,40.0,Sidharth,19-05-2025,BF
+19-05-2025 15:52,May-25,Expense,Food,30.0,Sidharth,19-05-2025,Lunch
+20-05-2025 08:55,May-25,Expense,Food,38.0,Sidharth,19-05-2025,Tea
+20-05-2025 08:55,May-25,Expense,Food,52.0,Sidharth,19-05-2025,Dinner
+20-05-2025 08:55,May-25,Expense,Food,62.0,Sidharth,20-05-2025,BF
+20-05-2025 08:56,May-25,Expense,Food,43.0,Jishnu,20-05-2025,BF
+22-05-2025 10:15,May-25,Expense,Food,90.0,Sidharth,20-05-2025,Lunch
+22-05-2025 10:15,May-25,Expense,Food,130.0,Sidharth,20-05-2025,Dinner
+22-05-2025 10:16,May-25,Expense,Food,62.0,Sidharth,22-05-2025,BF
+22-05-2025 10:16,May-25,Expense,Food,43.0,Jishnu,22-05-2025,BF
+22-05-2025 10:19,May-25,Expense,Food,43.0,Jishnu,21-05-2025,BF
+22-05-2025 10:20,May-25,Expense,Food,40.0,Sidharth,21-05-2025,BF
+22-05-2025 10:20,May-25,Expense,Food,100.0,Sidharth,21-05-2025,Lunch
+22-05-2025 10:21,May-25,Expense,Food,190.0,Sidharth,21-05-2025,Dinner
+24-05-2025 10:29,May-25,Expense,Food,62.0,Sidharth,23-05-2025,BF
+24-05-2025 10:29,May-25,Expense,Food,43.0,Jishnu,23-05-2025,
+24-05-2025 10:29,May-25,Expense,Food,80.0,Sidharth,23-05-2025,Lunch
+24-05-2025 10:30,May-25,Expense,Petrol,1200.0,Sidharth,23-05-2025,Car
+24-05-2025 10:30,May-25,Expense,Petrol,500.0,Sidharth,23-05-2025,Bike
+24-05-2025 10:31,May-25,Expense,Miscellaneous,340.0,Sidharth,23-05-2025,Raincoat
+24-05-2025 10:31,May-25,Expense,Food,40.0,Sidharth,24-05-2025,BF
+24-05-2025 10:32,May-25,Expense,Food,43.0,Jishnu,24-05-2025,BF
+27-05-2025 13:06,May-25,Expense,Food,60.0,Sidharth,26-05-2025,BF
+27-05-2025 13:06,May-25,Expense,Food,105.0,Sidharth,26-05-2025,Lunch
+27-05-2025 13:07,May-25,Expense,Food,62.0,Sidharth,27-05-2025,BF
+27-05-2025 13:07,May-25,Expense,Food,43.0,Sidharth,27-05-2025,BF
+27-05-2025 13:08,May-25,Expense,Food,43.0,Jishnu,26-05-2025,BF
+27-05-2025 13:08,May-25,Expense,Food,105.0,Sidharth,27-05-2025,Lunch
+29-05-2025 09:05,May-25,Expense,Food,40.0,Sidharth,28-05-2025,BF
+29-05-2025 09:05,May-25,Expense,Food,31.0,Jishnu,28-05-2025,BF
+29-05-2025 09:05,May-25,Expense,Food,230.0,Sidharth,28-05-2025,Lunch
+29-05-2025 09:06,May-25,Expense,Food,31.0,Jishnu,29-05-2025,BF
+29-05-2025 09:06,May-25,Expense,Food,60.0,Sidharth,29-05-2025,BF
+,,,,,,,
+2025-05-30 09:11:13,May 2025,Expense,Food,75.0,Sidharth,2025-05-29,Dinner
+2025-05-30 09:11:28,May 2025,Expense,Food,74.0,Sidharth,2025-05-30,BF
+2025-05-30 17:14:16,May 2025,Expense,Food,25.0,Sidharth,2025-05-30,Lunch
+2025-06-02 03:08:46,May 2025,Expense,Food,190.0,Sidharth,2025-05-31,Dinner
+2025-06-02 03:09:02,May 2025,Expense,Food,50.0,Sidharth,2025-05-31,Tea

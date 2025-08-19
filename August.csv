@@ -1,0 +1,51 @@
+Timestamp,Month,Type,Category,Amount,Person,Date,Remarks
+2025-08-19 16:22:10,August 2025,Expense,Food,40.0,Sidharth,2025-08-17,Dinner
+2025-08-19 16:22:27,August 2025,Expense,Food,72.0,Sidharth,2025-08-18,BF
+2025-08-19 16:22:42,August 2025,Expense,Food,113.0,Sidharth,2025-08-18,Lunch
+2025-08-19 16:22:53,August 2025,Expense,Food,50.0,Sidharth,2025-08-18,Dinner
+2025-08-19 16:23:21,August 2025,Expense,Food,50.0,Sidharth,2025-08-18,50 additional dinner
+2025-08-19 16:23:46,August 2025,Expense,Shopping,156.0,Sidharth,2025-08-18,Grocery
+2025-08-19 16:24:00,August 2025,Expense,Miscellaneous,300.0,Sidharth,2025-08-18,Jio Recharge
+2025-08-19 16:24:21,August 2025,Expense,Food,62.0,Sidharth,2025-08-19,BF
+2025-08-19 16:24:30,August 2025,Expense,Food,110.0,Sidharth,2025-08-19,Lunch
+17-08-2025 10:44,Aug-25,Expense,Miscellaneous,3352.0,Sidharth,15-08-2025,Petrol and trip
+17-08-2025 10:43,Aug-25,Expense,Food,60.0,Sidharth,14-08-2025,bf
+17-08-2025 10:43,Aug-25,Expense,Food,43.0,Jishnu,14-08-2025,bf
+17-08-2025 10:43,Aug-25,Expense,Food,104.0,Sidharth,14-08-2025,lunch
+17-08-2025 10:44,Aug-25,Expense,Food,90.0,Sidharth,14-08-2025,dinner
+17-08-2025 10:42,Aug-25,Expense,Food,55.0,Sidharth,13-08-2025,bf
+17-08-2025 10:42,Aug-25,Expense,Food,103.0,Sidharth,13-08-2025,lunch
+17-08-2025 10:42,Aug-25,Expense,Food,135.0,Sidharth,13-08-2025,dinner
+17-08-2025 10:42,Aug-25,Expense,Food,43.0,Jishnu,13-08-2025,bf
+17-08-2025 10:40,Aug-25,Expense,Food,43.0,Jishnu,12-08-2025,bf
+17-08-2025 10:40,Aug-25,Expense,Food,35.0,Sidharth,12-08-2025,bf
+17-08-2025 10:41,Aug-25,Expense,Food,35.0,Sidharth,12-08-2025,tea
+17-08-2025 10:41,Aug-25,Expense,Food,77.0,Sidharth,12-08-2025,medicine
+17-08-2025 10:40,Aug-25,Expense,Food,60.0,Sidharth,11-08-2025,Dinner
+17-08-2025 10:40,Aug-25,Expense,Food,530.0,Sidharth,11-08-2025,Breeze
+11-08-2025 15:12,Aug-25,Expense,Food,62.0,Sidharth,11-08-2025,BF
+11-08-2025 15:12,Aug-25,Expense,Food,103.0,Sidharth,11-08-2025,Lunch
+11-08-2025 15:11,Aug-25,Income,Petrol,1000.0,Sidharth,10-08-2025,Petrol
+11-08-2025 15:12,Aug-25,Expense,Food,22.0,Sidharth,10-08-2025,Tea
+11-08-2025 15:09,Aug-25,Expense,Food,43.0,Jishnu,08-08-2025,BF
+11-08-2025 15:10,Aug-25,Expense,Food,62.0,Sidharth,08-08-2025,BF
+11-08-2025 15:10,Aug-25,Expense,Rent,4800.0,Sidharth,08-08-2025,Feess
+11-08-2025 15:10,Aug-25,Expense,Food,103.0,Sidharth,08-08-2025,Lunch
+11-08-2025 15:11,Aug-25,Expense,Food,172.0,Sidharth,08-08-2025,Dinner
+11-08-2025 15:11,Aug-25,Expense,Shopping,100.0,Sidharth,08-08-2025,Medicine
+07-08-2025 09:19,Aug-25,Expense,Food,40.0,Sidharth,07-08-2025,BF
+07-08-2025 09:20,Aug-25,Expense,Food,43.0,Jishnu,07-08-2025,BF
+08-08-2025 15:13,Aug-25,Expense,Food,103.0,Sidharth,07-08-2025,Lunch
+08-08-2025 15:13,Aug-25,Expense,Food,60.0,Sidharth,07-08-2025,Dinner
+08-08-2025 15:14,Aug-25,Expense,Shopping,1879.0,Sidharth,07-08-2025,Ammu gift
+07-08-2025 09:18,Aug-25,Expense,Food,42.0,Sidharth,06-08-2025,BF
+07-08-2025 09:18,Aug-25,Expense,Food,35.0,Sidharth,06-08-2025,Tea
+07-08-2025 09:19,Aug-25,Expense,Food,190.0,Sidharth,06-08-2025,Dinner
+07-08-2025 09:17,Aug-25,Expense,Miscellaneous,10000.0,Sidharth,05-08-2025,Investment
+07-08-2025 09:17,Aug-25,Expense,Food,2500.0,Sidharth,04-08-2025,Mumbai food
+07-08-2025 09:16,Aug-25,Expense,Miscellaneous,899.0,Sidharth,02-08-2025,Jio Recharge
+07-08-2025 09:15,Aug-25,Expense,Food,43.0,Jishnu,01-08-2025,BF
+07-08-2025 09:15,Aug-25,Expense,Food,35.0,Sidharth,01-08-2025,BF
+07-08-2025 09:15,Aug-25,Expense,Food,103.0,Sidharth,01-08-2025,Lunch
+07-08-2025 09:15,Aug-25,Expense,Food,172.0,Sidharth,01-08-2025,Dinner
+07-08-2025 09:16,Aug-25,Income,Salary,50000.0,Sidharth,01-08-2025,
